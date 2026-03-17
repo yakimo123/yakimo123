@@ -2,9 +2,7 @@
 
 # Lê Quang Hùng
 ### Backend Developer · Java · Spring Boot · Next.js
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Building+scalable+backends+with+Java+%26+Spring+Boot;Passionate+about+clean+architecture+%26+real+problems;FPT+University+%7C+Open+to+opportunities)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -36,13 +34,6 @@ Fresher Backend Developer đang học năm cuối tại **FPT University**. Tôi
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
