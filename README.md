@@ -14,7 +14,7 @@
 Fresher Backend Developer đang học năm cuối tại **FPT University**. Tôi thích xây dựng hệ thống backend thực tế — không chỉ làm cho chạy, mà còn quan tâm đến **scalability, security, và code quality**.
 
 - 🔭 &nbsp;Đang xây dựng [**ElectroShop**](https://github.com/yakimo123/electroshop) — hệ thống e-commerce B2B/B2C production-grade
-- 🏢 &nbsp;Từng intern tại **FPT Software** — REST API với Spring Boot & web app với Next.js
+- 🏢 &nbsp;Từng intern tại **FPT Software** — REST API với Spring Boot
 - 🌱 &nbsp;Đang học thêm: **Microservices, Kafka, CI/CD**
 - 💼 &nbsp;Đang tìm kiếm cơ hội **Backend / Fullstack Developer** tại product company
 - 📍 &nbsp;Hồ Chí Minh City
@@ -69,22 +69,10 @@ Fresher Backend Developer đang học năm cuối tại **FPT University**. Tôi
 - Phát triển web interface với Next.js + Tailwind CSS cho end users
 - Làm việc trong môi trường Agile, review code, viết unit test
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yakimo123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakimo123&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yakimo123&theme=tokyonight&hide_border=true)
-
-</div>
+**Freelance Frontend Developer**
+- Thiết kế và phát triển landing page giới thiệu hệ sinh thái phim cho khách hàng thực tế
+- Xây dựng giao diện với Next.js + Tailwind CSS, tối ưu UX cho người dùng cuối
+- Làm việc trực tiếp với khách hàng: thu thập yêu cầu, deliver sản phẩm đúng hạn
 
 ---
 
