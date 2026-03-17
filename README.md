@@ -16,7 +16,7 @@ Fresher Backend Developer đang học năm cuối tại **FPT University**. Tôi
 - 🔭 &nbsp;Đang xây dựng [**ElectroShop**](https://github.com/yakimo123/electroshop) — hệ thống e-commerce B2B/B2C production-grade
 - 🏢 &nbsp;Từng intern tại **FPT Software** — REST API với Spring Boot
 - 🌱 &nbsp;Đang học thêm: **Microservices, Kafka, CI/CD**
-- 💼 &nbsp;Đang tìm kiếm cơ hội **Backend / Fullstack Developer** tại product company
+- 💼 &nbsp;Đang tìm kiếm cơ hội **Backend / Fullstack Developer**
 - 📍 &nbsp;Hồ Chí Minh City
 
 ---
